@@ -4,10 +4,6 @@
 
 <br>
 
-## The Problem
-
-![The problem](http://i.imgur.com/H1Ck3bF.png)
-
 <br>
 
 ## Install
